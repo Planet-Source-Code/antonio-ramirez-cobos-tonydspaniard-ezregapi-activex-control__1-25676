@@ -1,0 +1,138 @@
+[Root]
+Most Recent Package=EzRegApi Standard Setup Package 1
+
+
+[Package|EzRegApi Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Package
+Controls Design-Time Support=Yes
+
+[Package|EzRegApi Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|EzRegApi Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|EzRegApi Standard Setup Package 1|Files Found]
+Test_Form1.frm=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Form1.frm
+EzRegApi.chm=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\New help\EzRegApi.chm
+
+[Package|EzRegApi Standard Setup Package 1|Files Released]
+EzRegApi.CHI=
+
+[Package|EzRegApi Standard Setup Package 1|Missing Dependency Information]
+
+[Package|EzRegApi Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|EzRegApi Standard Setup Package 1|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+c:\my documents\visual basic\activex\activex control\regapictl\test_form1.frm=
+c:\my documents\visual basic\activex\activex control\regapictl\test_form1.frx=
+c:\my documents\visual basic\activex\activex control\regapictl\test_project1.vbp=
+c:\my documents\visual basic\activex\activex control\regapictl\test_project1.vbw=
+
+[Package|EzRegApi Standard Setup Package 1|Files Removed]
+
+[Package|EzRegApi Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\hhctrl.ocx=Yes
+C:\WINDOWS\SYSTEM\itss.dll=Yes
+C:\WINDOWS\SYSTEM\itircl.dll=Yes
+C:\WINDOWS\SYSTEM\HH.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Setup1.exe=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\EzRegApi.ocx=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Form1.frm=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Form1.frx=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Project1.vbp=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Project1.vbw=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\New help\EzRegApi.chm=Yes
+
+[Package|EzRegApi Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|EzRegApi Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|EzRegApi Standard Setup Package 1|Install Locations]
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\EzRegApi.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\New help\EzRegApi.chm=$(WinSysPath)
+C:\WINDOWS\SYSTEM\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itss.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\itircl.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\HH.EXE=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Setup1.exe=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\MSSTKPRP.DLL=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Form1.frm=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Form1.frx=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Project1.vbp=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Project1.vbw=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\EzRegApi.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\EzRegApi.chm=$(WinSysPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Form1.frm=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Form1.frx=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Project1.vbp=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Project1.vbw=$(AppPath)
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\New help\EzRegApi.chm=$(WinSysPath)
+
+[Package|EzRegApi Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\New help\EzRegApi.chm=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Form1.frm=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Form1.frx=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Project1.vbp=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Test_Project1.vbw=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Form1.frm=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Form1.frx=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Project1.vbp=No
+C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\Test_Project1.vbw=No
+
+[Package|EzRegApi Standard Setup Package 1|Distribution]
+Type=multi
+Size=1.44 MB
+Title=EzRegApi ActiveX Control
+
+[Package|EzRegApi Standard Setup Package 1|Package]
+PackageFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Package
+ProjectFolder=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl
+ServerSideCab=
+File1=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Package\setup.exe
+File2=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Package\Setup.Lst
+File3=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Package\EzRegA1.CAB
+File4=C:\My Documents\Visual Basic\ActiveX\Activex Control\RegApictl\RegApictl\Package\EzRegA2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Package|EzRegApi Standard Setup Package 1|IconGroups]
+Group0=EzRegApi
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|EzRegApi Standard Setup Package 1|EzRegApi]
+Icon1=Test_Project1.vbp
+Title1=EzRegApi Sample
+StartIn1=$(AppPath)
+Key1=Icon2
+Icon2=EzRegApi.chm
+Title2=EzRegApi Help
+StartIn2=$(WinSysPath)
+Key2=Icon1
